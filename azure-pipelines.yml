@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: MyPool
+pool: mypool
 
 steps:
 - task: Maven@3
